@@ -2,7 +2,7 @@
   "name": "my-project",
   "private": true,
   "version": "0.0.0",
-  "homepage": "/",
+  "homepage": "https://13.232.51.195:8090/preview/conferencewte.iitr.ac.in/",
   "type": "module",
   "scripts": {
     "dev": "vite",

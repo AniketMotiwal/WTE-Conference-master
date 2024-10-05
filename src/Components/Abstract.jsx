@@ -25,13 +25,13 @@ const Abstract = () => {
       <div className="bg-purple-600 text-white p-6 rounded-lg shadow-lg w-full md:w-1/2 transition-all duration-500 hover:bg-purple-700">
         <h2 className="text-2xl font-bold mb-4 hover:text-3xl">DEADLINE FOR ABSTRACT SUBMISSION</h2>
         <p className="text-lg hover:text-3xl">
-          <strong>Abstract Submission Deadline:</strong> September 30, 2024
+          <strong>Abstract Submission Deadline:</strong> September 15, 2024
         </p>
         <p className="text-lg hover:text-3xl">
-          <strong>Notification of Acceptance:</strong> October 15, 2024
+          <strong>Notification of Acceptance:</strong> October 30, 2024
         </p>
         <p className="text-lg hover:text-3xl">
-          <strong>Registration Deadline:</strong> November 5, 2024
+          <strong>Registration Deadline:</strong> November 20, 2024
         </p>
         <h3 className="font-bold mt-4 text-xl hover:text-3xl">Registration Fees for presenters:</h3>
         <p className="text-lg hover:text-xl">For Indians: INR 1500</p>
